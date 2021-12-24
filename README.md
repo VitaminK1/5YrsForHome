@@ -1,3 +1,3 @@
 # HomeMyHome
 
-2021-2 정보문화기술입문 팀프로젝트 과제로 제출된 게임입니다.
+This is a game for team project of 2021-1 IICT class, using P5.js.
